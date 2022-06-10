@@ -1,42 +1,18 @@
-****Vladimir Nekrashevich****
-
-## Contact info
-
-* vovanek@yandex.ru
-* +375447098916
-
+**Vladimir Nekrashevich**
+## Contacts
+**vovanek@yandex.ru**
+***+375447098916**
 ## About myself
-
-I am 38 years old
-
-My goals:
-
-Be a good programmer
-
-
+**I am 38 years old**
 ## Skills
-
-- OS
-  - Windows
-
-- Programming languages
-  - HTML
-  
-
+  **HTML**
 # Code example
-
   <script>
     alert( 'Привет, мир!' );
   </script>
-
 # Work experience
-
-http://zapravlayem.narod.ru/
-
+**http://zapravlayem.narod.ru/**
 # Education
-
-Humanitarium
-
+**Humanitarium**
 # English level
-
-**А1**
+**А2**

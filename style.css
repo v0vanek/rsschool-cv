@@ -1,0 +1,16 @@
+h1 { 
+  text-decoration: underline; 
+}
+
+.text {
+  color: #dba736;
+}
+
+#header {
+  background-color:#545c51;
+  font-size: 50px;
+}
+
+#main  {
+  background-color: #dba736;
+}
